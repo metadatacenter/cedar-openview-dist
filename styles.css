@@ -713,7 +713,7 @@
     transform: translate(0, -50%) rotate(360deg); } }
 
 /*!
- * Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com
+ * Font Awesome Free 5.14.0 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
 .fa,
@@ -883,6 +883,8 @@ readers do not read off random characters that represent icons */
   content: "\f042"; }
 .fa-adn:before {
   content: "\f170"; }
+.fa-adobe:before {
+  content: "\f778"; }
 .fa-adversal:before {
   content: "\f36a"; }
 .fa-affiliatetheme:before {
@@ -1409,8 +1411,6 @@ readers do not read off random characters that represent icons */
   content: "\f743"; }
 .fa-cloud-upload-alt:before {
   content: "\f382"; }
-.fa-cloudflare:before {
-  content: "\e07d"; }
 .fa-cloudscale:before {
   content: "\f383"; }
 .fa-cloudsmith:before {
@@ -2073,8 +2073,6 @@ readers do not read off random characters that represent icons */
   content: "\f3ac"; }
 .fa-grunt:before {
   content: "\f3ad"; }
-.fa-guilded:before {
-  content: "\e07e"; }
 .fa-guitar:before {
   content: "\f7a6"; }
 .fa-gulp:before {
@@ -2191,8 +2189,6 @@ readers do not read off random characters that represent icons */
   content: "\f3b0"; }
 .fa-history:before {
   content: "\f1da"; }
-.fa-hive:before {
-  content: "\e07f"; }
 .fa-hockey-puck:before {
   content: "\f453"; }
 .fa-holly-berry:before {
@@ -2279,14 +2275,10 @@ readers do not read off random characters that represent icons */
   content: "\f129"; }
 .fa-info-circle:before {
   content: "\f05a"; }
-.fa-innosoft:before {
-  content: "\e080"; }
 .fa-instagram:before {
   content: "\f16d"; }
 .fa-instagram-square:before {
   content: "\e055"; }
-.fa-instalod:before {
-  content: "\e081"; }
 .fa-intercom:before {
   content: "\f7af"; }
 .fa-internet-explorer:before {
@@ -2633,8 +2625,6 @@ readers do not read off random characters that represent icons */
   content: "\f247"; }
 .fa-object-ungroup:before {
   content: "\f248"; }
-.fa-octopus-deploy:before {
-  content: "\e082"; }
 .fa-odnoklassniki:before {
   content: "\f263"; }
 .fa-odnoklassniki-square:before {
@@ -2727,8 +2717,6 @@ readers do not read off random characters that represent icons */
   content: "\f4ce"; }
 .fa-pepper-hot:before {
   content: "\f816"; }
-.fa-perbyte:before {
-  content: "\e083"; }
 .fa-percent:before {
   content: "\f295"; }
 .fa-percentage:before {
@@ -3509,8 +3497,6 @@ readers do not read off random characters that represent icons */
   content: "\f0e9"; }
 .fa-umbrella-beach:before {
   content: "\f5ca"; }
-.fa-uncharted:before {
-  content: "\e084"; }
 .fa-underline:before {
   content: "\f0cd"; }
 .fa-undo:before {
@@ -3613,10 +3599,6 @@ readers do not read off random characters that represent icons */
   content: "\f226"; }
 .fa-venus-mars:before {
   content: "\f228"; }
-.fa-vest:before {
-  content: "\e085"; }
-.fa-vest-patches:before {
-  content: "\e086"; }
 .fa-viacoin:before {
   content: "\f237"; }
 .fa-viadeo:before {
@@ -3677,8 +3659,6 @@ readers do not read off random characters that represent icons */
   content: "\f555"; }
 .fa-warehouse:before {
   content: "\f494"; }
-.fa-watchman-monitoring:before {
-  content: "\e087"; }
 .fa-water:before {
   content: "\f773"; }
 .fa-wave-square:before {
@@ -3729,8 +3709,6 @@ readers do not read off random characters that represent icons */
   content: "\f5cf"; }
 .fa-wizards-of-the-coast:before {
   content: "\f730"; }
-.fa-wodu:before {
-  content: "\e088"; }
 .fa-wolf-pack-battalion:before {
   content: "\f514"; }
 .fa-won-sign:before {
